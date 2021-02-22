@@ -1,6 +1,7 @@
 {
   "pages": [
     "pages/index/index",
+    "pages/fbx/index",
     "pages/primitives/index",
     "pages/cube/index",
     "pages/glb/index",

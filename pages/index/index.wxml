@@ -9,6 +9,9 @@
         TrackballControls
     </button>
     
+    <button type="primary" size="default" plain="true" bindtap="tap" data-id="fbx">
+        fbx
+    </button>
     <button type="primary" size="default" plain="true" bindtap="tap" data-id="gltf">
         gLTF
     </button>
